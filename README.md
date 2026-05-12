@@ -1,1 +1,3 @@
 # RDNA1-Ai-Lab
+
+i will host some scripts, mods, tweaks and optimizations to run your models locally as optimized as i know and i will keep it updated with the lates updates i do for my own RX 5600 XT core i5 10th gen 32GB RAM.. now running 200K+ context without overclocking with a very usable speed on higher context....
